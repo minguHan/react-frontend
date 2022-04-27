@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/minguHan/react-frontend/static/css/main.4d1ea2ce.chunk.css",
-    "main.js": "/minguHan/react-frontend/static/js/main.10085cf1.chunk.js",
-    "main.js.map": "/minguHan/react-frontend/static/js/main.10085cf1.chunk.js.map",
-    "runtime-main.js": "/minguHan/react-frontend/static/js/runtime-main.9866be83.js",
-    "runtime-main.js.map": "/minguHan/react-frontend/static/js/runtime-main.9866be83.js.map",
-    "static/css/2.a1f65902.chunk.css": "/minguHan/react-frontend/static/css/2.a1f65902.chunk.css",
-    "static/js/2.b8455aa6.chunk.js": "/minguHan/react-frontend/static/js/2.b8455aa6.chunk.js",
-    "static/js/2.b8455aa6.chunk.js.map": "/minguHan/react-frontend/static/js/2.b8455aa6.chunk.js.map",
-    "index.html": "/minguHan/react-frontend/index.html",
-    "precache-manifest.8a6ee6c5f6c717f88c7bffbca66d93b0.js": "/minguHan/react-frontend/precache-manifest.8a6ee6c5f6c717f88c7bffbca66d93b0.js",
-    "service-worker.js": "/minguHan/react-frontend/service-worker.js",
-    "static/css/2.a1f65902.chunk.css.map": "/minguHan/react-frontend/static/css/2.a1f65902.chunk.css.map",
-    "static/css/main.4d1ea2ce.chunk.css.map": "/minguHan/react-frontend/static/css/main.4d1ea2ce.chunk.css.map",
-    "static/js/2.b8455aa6.chunk.js.LICENSE.txt": "/minguHan/react-frontend/static/js/2.b8455aa6.chunk.js.LICENSE.txt"
+    "main.css": "/react-frontend/static/css/main.4d1ea2ce.chunk.css",
+    "main.js": "/react-frontend/static/js/main.51cbe78b.chunk.js",
+    "main.js.map": "/react-frontend/static/js/main.51cbe78b.chunk.js.map",
+    "runtime-main.js": "/react-frontend/static/js/runtime-main.5e295304.js",
+    "runtime-main.js.map": "/react-frontend/static/js/runtime-main.5e295304.js.map",
+    "static/css/2.a1f65902.chunk.css": "/react-frontend/static/css/2.a1f65902.chunk.css",
+    "static/js/2.b8455aa6.chunk.js": "/react-frontend/static/js/2.b8455aa6.chunk.js",
+    "static/js/2.b8455aa6.chunk.js.map": "/react-frontend/static/js/2.b8455aa6.chunk.js.map",
+    "index.html": "/react-frontend/index.html",
+    "precache-manifest.ab7eb250a999f47cbe529443bc3663ae.js": "/react-frontend/precache-manifest.ab7eb250a999f47cbe529443bc3663ae.js",
+    "service-worker.js": "/react-frontend/service-worker.js",
+    "static/css/2.a1f65902.chunk.css.map": "/react-frontend/static/css/2.a1f65902.chunk.css.map",
+    "static/css/main.4d1ea2ce.chunk.css.map": "/react-frontend/static/css/main.4d1ea2ce.chunk.css.map",
+    "static/js/2.b8455aa6.chunk.js.LICENSE.txt": "/react-frontend/static/js/2.b8455aa6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9866be83.js",
+    "static/js/runtime-main.5e295304.js",
     "static/css/2.a1f65902.chunk.css",
     "static/js/2.b8455aa6.chunk.js",
     "static/css/main.4d1ea2ce.chunk.css",
-    "static/js/main.10085cf1.chunk.js"
+    "static/js/main.51cbe78b.chunk.js"
   ]
 }
